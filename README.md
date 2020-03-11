@@ -1,4 +1,4 @@
-# posh-nonparametric-analysis
+# Exploring Sales on Poshmark
 
 The report investigated sales data between December 2015 to March 2019 from a boutique seller on Poshmark. 
 
